@@ -27,3 +27,15 @@
       font-size: 24px;
       font-family: "Courier New", Courier, monospace;
 }
+body{
+   font-family: "Poppins";
+}
+
+.turma{
+    background-image: linear-gradient(#b210e449, #3e0cf1);
+    color:  white;
+}
+
+.planetas-imagem{
+    width: 25%;
+}
