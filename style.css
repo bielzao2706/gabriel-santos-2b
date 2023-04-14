@@ -32,7 +32,7 @@ body{
 }
 
 .turma{
-    background-image: linear-gradient(#b210e449, #d97de6);
+    background-image: linear-gradient(#b210e449, #b485bb);
     color:  white;
     display:flex;
     justify-content: center;
