@@ -7,7 +7,7 @@
 
 
 .cabecalho {
-    background-color: #8dee0da6;
+    background-color: #010201;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -33,7 +33,7 @@ body{
 
 .turma{
 
-   background-image: linear-gradient(#8dee0da6, #3a0be4);
+   background-image: linear-gradient(#010201, #3a0be4);
 
     color:  white;
     display:flex;
